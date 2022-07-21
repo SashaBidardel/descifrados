@@ -1,0 +1,11 @@
+.cajas,h1,.reset{
+    display: flex;
+    justify-content: center;
+}
+
+.cifrar{
+    margin-right: 20%;
+}
+.reset{
+    margin-left: 4%;
+}
